@@ -1,0 +1,35 @@
+ .qr-card {
+   background-color: hsl(0, 0%, 100%);
+   box-shadow: 0 0.8rem 0.5rem 0.4rem hsl(219deg 39.66% 84.58%);
+   max-width: min(75%, 19rem);
+   border-radius: 1.2rem;
+   padding: 1.2rem 1.2rem 2rem;
+
+
+   .qr-card__header {
+     .qr-card__img {
+       border-radius: .7rem;
+     }
+   }
+
+   .qr-card__content {
+     text-align: center;
+
+     .qr-card__name {
+       color: var(--Dark-blue);
+       font-size: 1.5rem;
+     }
+
+     .qr-card__description {
+       color: var(--Grayish-blue);
+       font-size: 1rem;
+     }
+   }
+ }
+
+ @media screen and (min-width: 375px) {
+   .qr-card__description {
+     padding-left: 1rem;
+     padding-right: 1rem;
+   }
+ }
