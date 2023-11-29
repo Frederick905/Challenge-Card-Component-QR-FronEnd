@@ -13,6 +13,6 @@ This challenge is built with HTML5, CSS3, using the semantic tags of Html and th
 HTML5, CSS, (var, Nesting, modules), methodology BEM
 
 ## Deploying challenge with
-- [GitHub Pages]()
+- [GitHub Pages](https://frederick905.github.io/Challenge-Card-Component-QR-FronEnd/)
 
 **I Had fun reviewing and building this challenge!** 🚀
